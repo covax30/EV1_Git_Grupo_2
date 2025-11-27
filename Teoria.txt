@@ -9,3 +9,13 @@ linea de erick
 
 STEVEN
 222222
+
+erick
+STEVEN
+karol
+yury
+
+Los almacenes de información pueden publicarse por HTTP, FTP, rsync o mediante un protocolo nativo, 
+ya sea a través de una conexión TCP/IP simple o a través de cifrado SSH. Git también puede 
+emular servidores CVS, lo que habilita el uso de clientes CVS pre-existentes y módulos IDE 
+para CVS pre-existentes en el acceso de repositorios Git.
